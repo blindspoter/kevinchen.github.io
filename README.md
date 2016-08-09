@@ -1,1 +1,1 @@
-# github pages
+# blindspoter.com
